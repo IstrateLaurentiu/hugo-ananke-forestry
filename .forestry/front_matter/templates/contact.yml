@@ -20,5 +20,8 @@ fields:
   label: type
   default: page
   hidden: true
+- name: toggle
+  type: boolean
+  label: toggle
 pages:
 - content/contact.md
